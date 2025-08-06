@@ -1,2 +1,2 @@
 # MindShift-Kaizen
-This is a Employee Quality Upgrade System 
+This is a Generative AI Employee Quality Upgrade System...
